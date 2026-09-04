@@ -7,7 +7,7 @@ This project is part of The Odin Project’s Intermediate HTML and CSS Course, c
 ## Project Overview
 
 The odin-admin-dashboard is a modern web-based admin panel layout.  
-It replicates a typical dashboard interface with sidebar navigation, a top header, project cards, announcements, and trending sections.  
+It replicates a typical dashboard interface with sidebar navigation, a top header, project cards, announcements, and the trending sections.  
 This project helped me strengthen my understanding of CSS Grid, layout composition, and UI structuring.
 
 ## Features
