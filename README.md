@@ -16,7 +16,7 @@ This project helped me strengthen my understanding of CSS Grid, layout compositi
 - CSS Grid + Flexbox for clean and adaptable layouts.
 - Hover effects for interactive sidebar navigation.
 - Content cards for projects, announcements, and trending users.
-- Designed with a consistent visual style and reusable components.
+- Designed with a consistent visuals style and reusable components.
 
 ## Usage
 
@@ -37,4 +37,4 @@ To work on this project locally or further customize it:
 ## Acknowledgments
 
 - This project was created as part of The Odin Project's Foundation Course.
-- Special thanks to the open-source community for providing resources and inspiration.
+- Special thanks to the open-source community for providing the resources and inspiration.
