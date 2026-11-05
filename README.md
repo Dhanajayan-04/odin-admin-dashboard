@@ -16,7 +16,7 @@ This project helped me strengthen my understanding of CSS Grid, layout compositi
 - CSS Grid + Flexbox for clean and adaptable layouts.
 - Hover effects for interactive sidebar navigation.
 - Content cards for projects, announcements, and trending users.
-- Designed with a consistent visuals style and reusable components.
+- Designed with a consistent visuals style and the reusable components.
 
 ## Usage
 
